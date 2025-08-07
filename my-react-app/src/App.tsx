@@ -1,11 +1,11 @@
 import "./App.css";
-import Counter from "./components/useCallback/Counter";
+import HeavyCalculator from "./components/useMemo/HeavyCalculator";
 
 function App() {
   return (
     <>
       <div>
-        <Counter />
+        <HeavyCalculator />
       </div>
     </>
   );
