@@ -10,13 +10,13 @@
 
 ### 1〜2日目: React + TypeScript の再確認
 
-#### [ ] 環境構築
+#### [x] 環境構築
 
-- [ ] npm create vite@latest my-react-app -- --template react-ts でVite + React + TSのプロジェクトを作成する。
+- [x] npm create vite@latest my-react-app -- --template react-ts でVite + React + TSのプロジェクトを作成する。
 
 #### [ ] Hooksの復習
 
-- [ ] useState: 基本的な状態の宣言と更新を実装する。
+- [x] useState: 基本的な状態の宣言と更新を実装する。
 - [ ] useEffect: コンポーネントのマウント時・アンマウント時（クリーンアップ関数）に処理を実行する。
 - [ ] useCallback: 関数のメモ化が必要な場面を理解し、実装してみる。
 - [ ] useMemo: 値のメモ化が必要な場面を理解し、実装してみる。
