@@ -1,5 +1,5 @@
 import "./App.css";
-import WindowWidthDisplay from "./components/WindowWidthDisplay";
+import WindowWidthDisplay from "./components/useEffect/WindowWidthDisplay";
 
 function App() {
   return (
