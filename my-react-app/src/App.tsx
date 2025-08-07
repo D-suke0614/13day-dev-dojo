@@ -1,11 +1,11 @@
 import "./App.css";
-import WindowWidthDisplay from "./components/useEffect/WindowWidthDisplay";
+import Counter from "./components/useCallback/Counter";
 
 function App() {
   return (
     <>
       <div>
-        <WindowWidthDisplay />
+        <Counter />
       </div>
     </>
   );
