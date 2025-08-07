@@ -14,16 +14,16 @@
 
 - [x] npm create vite@latest my-react-app -- --template react-ts でVite + React + TSのプロジェクトを作成する。
 
-#### [ ] Hooksの復習
+#### [x] Hooksの復習
 
 - [x] useState: 基本的な状態の宣言と更新を実装する。
 - [x] useEffect: コンポーネントのマウント時・アンマウント時（クリーンアップ関数）に処理を実行する。
 - [x] useCallback: 関数のメモ化が必要な場面を理解し、実装してみる。
 - [x] useMemo: 値のメモ化が必要な場面を理解し、実装してみる。
 
-#### [ ] カスタムフック
+#### [x] カスタムフック
 
-- [ ] 状態の表示/非表示を切り替える useToggle フックを自作する。
+- [x] 状態の表示/非表示を切り替える useToggle フックを自作する。
 
 #### [ ] TypeScriptでの型付け
 

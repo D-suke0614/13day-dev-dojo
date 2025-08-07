@@ -1,11 +1,11 @@
 import "./App.css";
-import HeavyCalculator from "./components/useMemo/HeavyCalculator";
+import Accordion from "./components/customHooks/Accordion";
 
 function App() {
   return (
     <>
       <div>
-        <HeavyCalculator />
+        <Accordion />
       </div>
     </>
   );
