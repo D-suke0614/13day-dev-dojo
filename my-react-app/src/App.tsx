@@ -1,9 +1,12 @@
 import "./App.css";
+import WindowWidthDisplay from "./components/WindowWidthDisplay";
 
 function App() {
   return (
     <>
-      <div></div>
+      <div>
+        <WindowWidthDisplay />
+      </div>
     </>
   );
 }
