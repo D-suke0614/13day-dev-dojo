@@ -25,11 +25,11 @@
 
 - [x] 状態の表示/非表示を切り替える useToggle フックを自作する。
 
-#### [ ] TypeScriptでの型付け
+#### [x] TypeScriptでの型付け
 
-- [ ] コンポーネントのPropsに型を付ける（type Props = { ... }）。
-- [ ] useStateに明示的に型を付ける（例: useState<string[] | null>(null)）。
-- [ ] onClick や onChange などのイベントハンドラに型を付ける。
+- [x] コンポーネントのPropsに型を付ける（type Props = { ... }）。
+- [x] useStateに明示的に型を付ける（例: useState<string[] | null>(null)）。
+- [x] onClick や onChange などのイベントハンドラに型を付ける。
 
 #### [ ] 成果物
 
