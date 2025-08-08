@@ -1,11 +1,11 @@
 import "./App.css";
-import Accordion from "./components/customHooks/Accordion";
+import Todo from "./components/TodoApp/Todo";
 
 function App() {
   return (
     <>
       <div>
-        <Accordion />
+        <Todo />
       </div>
     </>
   );
