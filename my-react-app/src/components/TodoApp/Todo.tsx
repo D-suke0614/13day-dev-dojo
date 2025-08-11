@@ -34,12 +34,14 @@ export default function Todo() {
         <input
           type="text"
           name="title"
+          placeholder="todo"
           value={title}
           onChange={(e) => setTitle(e.target.value)}
         />
         <input
           type="text"
           name="text"
+          placeholder="text"
           value={text}
           onChange={(e) => setText(e.target.value)}
         />
