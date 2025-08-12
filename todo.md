@@ -41,11 +41,11 @@
 
 - [x] npx create-next-app@latest --typescript でNext.jsプロジェクトを作成する（pages routerを選択）。
 
-#### [ ] Pages Routerの理解
+#### [x] Pages Routerの理解
 
-- [ ] pages/index.tsx がルート(/)に対応することを確認する。
-- [ ] pages/about.tsx を作成し、/about ページを追加する。
-- [ ] pages/todos/[id].tsx を作成し、動的ルーティングを実装する。
+- [x] pages/index.tsx がルート(/)に対応することを確認する。
+- [x] pages/about.tsx を作成し、/about ページを追加する。
+- [x] pages/todos/[id].tsx を作成し、動的ルーティングを実装する。
 
 #### [ ] データ取得方法の理解
 
