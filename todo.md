@@ -57,13 +57,13 @@
 
 - [x] pages/api/hello.ts を作成し、JSONを返す簡単なAPIエンドポイントを実装する。
 
-#### [ ] スタイリング
+#### [x] スタイリング
 
-- [ ] [componentName].module.css ファイルを作成し、CSS Modulesを使ったスタイリングをコンポーネントに適用する。
+- [x] [componentName].module.css ファイルを作成し、CSS Modulesを使ったスタイリングをコンポーネントに適用する。
 
-#### [ ] 成果物
+#### [x] 成果物
 
-- [ ] Viteで作成したTodoアプリをNext.jsに移植する。
+- [x] Viteで作成したTodoアプリをNext.jsに移植する。
 
 ### 5日目: 状態管理 (Recoil)
 
