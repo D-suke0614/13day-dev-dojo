@@ -53,9 +53,9 @@
 - [x] getStaticProps を使って、ビルド時にデータをフェッチするページを作成する。
 - [x] 上記2つの違いと、どのような場合にどちらを使うべきかを自分の言葉で説明できるようにする。
 
-#### [ ] API Routes
+#### [x] API Routes
 
-- [ ] pages/api/hello.ts を作成し、JSONを返す簡単なAPIエンドポイントを実装する。
+- [x] pages/api/hello.ts を作成し、JSONを返す簡単なAPIエンドポイントを実装する。
 
 #### [ ] スタイリング
 
