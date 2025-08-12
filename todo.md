@@ -37,9 +37,9 @@
 
 ### 3〜4日目: Next.js (Pages Router) の基礎
 
-#### [ ] プロジェクト作成
+#### [x] プロジェクト作成
 
-- [ ] npx create-next-app@latest --typescript でNext.jsプロジェクトを作成する（pages routerを選択）。
+- [x] npx create-next-app@latest --typescript でNext.jsプロジェクトを作成する（pages routerを選択）。
 
 #### [ ] Pages Routerの理解
 
