@@ -31,9 +31,9 @@
 - [x] useStateに明示的に型を付ける（例: useState<string[] | null>(null)）。
 - [x] onClick や onChange などのイベントハンドラに型を付ける。
 
-#### [ ] 成果物
+#### [x] 成果物
 
-- [ ] Todoの追加と一覧表示ができる、コンポーネント分割されたTodoアプリの雛形を作成する。
+- [x] Todoの追加と一覧表示ができる、コンポーネント分割されたTodoアプリの雛形を作成する。
 
 ### 3〜4日目: Next.js (Pages Router) の基礎
 
